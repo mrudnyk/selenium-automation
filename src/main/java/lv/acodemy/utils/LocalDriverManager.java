@@ -16,7 +16,7 @@ public class LocalDriverManager {
     public static void closeDriver () {
         driver.get().close();
         driver.get().quit();
-        driver.
+        driver.set(null);
     }
 
 }

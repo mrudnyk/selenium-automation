@@ -1,5 +1,4 @@
 package lv.acodemy.page_object;
-
 import lv.acodemy.utils.LocalDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
